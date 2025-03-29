@@ -1,5 +1,5 @@
 <template>
-  <section class="w-full mx-auto px-[50px] max-w-desktop pt-36">
+  <section class="w-full mx-auto px-[50px] max-w-desktop pt-36 pb-64">
     <p class="text-xl font-normal text-slate-custom font-proxima mb-[7px]">
       Студия разработки
     </p>

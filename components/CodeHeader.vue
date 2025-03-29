@@ -26,7 +26,7 @@
               >Журнал</NuxtLink
             >
           </div>
-          <MyButton class="ml-50px">Контакты </MyButton>
+          <MyButton class="ml-50px" :minHeight="'40px'">Контакты </MyButton>
         </div>
       </div>
     </div>

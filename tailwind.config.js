@@ -21,20 +21,33 @@ export default {
         "athens-gray": "#e8eaf2",
         whisper: "#f7f8fb",
         monza: "#E20613",
+        porcelain: "#f3f4f5",
       },
       borderRadius: {
         ten: "10px",
+        fifteen: "15px",
       },
       spacing: {
+        "15px": "15px",
         "25px": "25px",
+        "35px": "35px",
         "50px": "50px",
+        "100px": "100px",
       },
       letterSpacing: {
         min: "0.01em",
+        minus: "-0.028em",
       },
       fontSize: {
+        "15px": "15px",
         "22px": "22px",
+        "25px": "25px",
+        "30px": "30px",
         "70px": "70px",
+        "45px": "45px",
+      },
+      lineHeight: {
+        norm: "normal",
       },
     },
     fontFamily: {
